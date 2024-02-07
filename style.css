@@ -1,0 +1,18 @@
+.carousel-inner {
+    height: 600px; /* Adjust the height as needed */
+   
+}
+.carousel-item{
+    height: 100%; /* Ensures the images fill the carousel item height */
+    width: 100%; /* Ensures the images fill the carousel item width */
+    object-fit: cover;
+
+}
+
+
+.body{
+    <span class="border border-5"></span>
+   
+   } 
+
+   
